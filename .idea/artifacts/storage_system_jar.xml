@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="storage-system:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/storage_system_jar</output-path>
+    <root id="archive" name="storage-system.jar">
+      <element id="module-output" name="storage-system" />
+    </root>
+  </artifact>
+</component>
